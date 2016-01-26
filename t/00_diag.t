@@ -13,9 +13,7 @@ $modules{$_} = $_ for qw(
   ExtUtils::MakeMaker
   File::ShareDir
   File::ShareDir::Install
-  File::Spec
   Test::More
-  lib
 );
 
 
